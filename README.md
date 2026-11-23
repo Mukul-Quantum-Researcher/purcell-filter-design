@@ -32,3 +32,7 @@ The supplied logs reference Ansys Electronics Desktop 2024 R1. Open an `.aedt` f
 There is no pinned geometry environment because it has not been reproduced in this workspace. The retained `.aedt` files and exports are the evidence for the historical design iterations. Changes between geometry iterations should not be interpreted as a single automated, validated sweep.
 
 [Project explanation](https://mukul-quantum-researcher.github.io/projects/purcell-filter/) · [Portfolio](https://mukul-quantum-researcher.github.io)
+
+## Reference
+
+P. A. Spring et al., [Fast Multiplexed Superconducting-Qubit Readout with Intrinsic Purcell Filtering Using a Multiconductor Transmission Line](https://doi.org/10.1103/PRXQuantum.6.020345), PRX Quantum 6, 020345 (2025); [2024 preprint](https://arxiv.org/abs/2409.04967).
