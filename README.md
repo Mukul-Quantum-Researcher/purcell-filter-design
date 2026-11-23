@@ -10,7 +10,7 @@ Changing the shorted-end lengths moves the transfer-impedance notch: about 11.42
 
 ## Files
 
-- `designs/`: Project11, Project13, Project14 and Project15 `.aedt` files. Results caches and meshes are excluded.
+- `designs/HFSS-designs.zip`: the original Project11, Project13, Project14 and Project15 `.aedt` files, compressed for download. Extract before opening in HFSS; checksums are in `designs/SHA256.json`. Results caches and meshes are excluded.
 - `notebooks/purcell_geometry.ipynb`: selected geometry cells from the later Project15 variant, with old error outputs removed. This is **not** an exact regeneration of Project14.
 - `data/`: original CSV exports, with their original filenames and column labels.
 - `figures/`: selected original HFSS exports.
@@ -32,4 +32,3 @@ The supplied logs reference Ansys Electronics Desktop 2024 R1. Open an `.aedt` f
 There is no pinned geometry environment because it has not been reproduced in this workspace. The retained `.aedt` files and exports are the evidence for the historical design iterations. Changes between geometry iterations should not be interpreted as a single automated, validated sweep.
 
 [Project explanation](https://mukul-quantum-researcher.github.io/projects/purcell-filter/) · [Portfolio](https://mukul-quantum-researcher.github.io)
-

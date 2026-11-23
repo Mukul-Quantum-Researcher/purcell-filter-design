@@ -1,0 +1,42 @@
+[
+  {
+    "source": "mid frequency 8 Ghz project 12.csv",
+    "rows": 1601,
+    "frequency_range_GHz": [
+      4.0,
+      15.0
+    ],
+    "minima": [
+      {
+        "column": "dB20(Z(LumpPort_port3_in,LumpPort_port1_in)) []",
+        "frequency_GHz": 8.351875,
+        "value": -65.0599594738582
+      }
+    ]
+  },
+  {
+    "source": "s parameter modifier length with wirebonds.csv",
+    "rows": 1601,
+    "frequency_range_GHz": [
+      4.0,
+      15.0
+    ],
+    "minima": [
+      {
+        "column": "dB(S(LumpPort_port1_in,LumpPort_port1_in)) []",
+        "frequency_GHz": 15.0,
+        "value": -23.5100158455957
+      },
+      {
+        "column": "dB(S(LumpPort_port2_in,LumpPort_port1_in)) []",
+        "frequency_GHz": 11.019375,
+        "value": -0.151065246689787
+      },
+      {
+        "column": "dB(S(LumpPort_port3_in,LumpPort_port1_in)) []",
+        "frequency_GHz": 4.0,
+        "value": -81.8059879905845
+      }
+    ]
+  }
+]
